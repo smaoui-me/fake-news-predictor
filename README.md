@@ -1,0 +1,2 @@
+# fake-news-predictor
+This project uses Natural Language Processing (NLP) and machine learning to automatically detect whether a news article is real or fake based on its text content.  By analyzing the linguistic patterns in news headlines and articles, the model can classify articles as “FAKE” or “REAL” with high accuracy. The goal is to help combat misinformation by providing an automated, scalable tool for fact-checking.
