@@ -2,6 +2,10 @@
 
 This project uses Natural Language Processing (NLP) and machine learning to automatically detect whether a news article is real or fake based on its text content. By analyzing the linguistic patterns in news headlines and articles, the model can classify articles as "FAKE" or "REAL" with high accuracy. The goal is to help combat misinformation by providing an automated, scalable tool for fact-checking.
 
+## Dataset
+
+The dataset used for this project is the "Fake News" dataset from Kaggle (link: https://www.kaggle.com/datasets/khushikyad001/fake-news-detection). It contains 4,000 news articles, labeled as "FAKE" or "REAL".
+
 ## Key Findings
 
 - Dataset of 4,000 articles is well-balanced (50.65% fake, 49.35% real)
